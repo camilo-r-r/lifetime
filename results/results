@@ -1,0 +1,66 @@
+#
+# Results on Thursday July 11 2019 06:23:22 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:67.0) Gecko/20100101 Firefox/67.0
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,Start,1562826162234,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,End,1562826163806,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,1,0,info1,NULL,PennController,1,_Trial_,Start,1562826163813,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,1,0,info1,NULL,Html,info,name,german,1562826169584,text input
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,1,0,info1,NULL,Html,info,alter,44,1562826169584,text input
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,1,0,info1,NULL,Html,info,sex,male,1562826169584,radio button
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,1,0,info1,NULL,Html,info,hand,left,1562826169584,radio button
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,1,0,info1,NULL,PennController,1,_Trial_,End,1562826169585,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. Comments.
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,2,0,items,NULL,PennController,2,_Trial_,Start,1562826169594,2,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,2,0,items,NULL,Key,bio,Key,32,1562826171659,2,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,2,0,items,NULL,Key,bio,Key,32,1562826174046,2,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,2,0,items,NULL,Key,critical,Key,32,1562826174046,2,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,2,0,items,NULL,Scale,rating,Choice,0,1562826176403,2,336
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,2,0,items,NULL,PennController,2,_Trial_,End,1562826178513,2,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,4,0,items,NULL,PennController,4,_Trial_,Start,1562826178518,10,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,4,0,items,NULL,Key,bio,Key,32,1562826181941,10,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,4,0,items,NULL,Key,bio,Key,32,1562826183729,10,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,4,0,items,NULL,Key,critical,Key,32,1562826183729,10,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,4,0,items,NULL,Scale,rating,Choice,6,1562826185762,10,287
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,4,0,items,NULL,PennController,4,_Trial_,End,1562826188084,10,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,5,0,items,NULL,PennController,5,_Trial_,Start,1562826188088,14,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,5,0,items,NULL,Key,bio,Key,32,1562826189227,14,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,5,0,items,NULL,Key,bio,Key,32,1562826190971,14,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,5,0,items,NULL,Key,critical,Key,32,1562826190972,14,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,5,0,items,NULL,Scale,rating,Choice,6,1562826193486,14,156
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,5,0,items,NULL,PennController,5,_Trial_,End,1562826195782,14,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,3,0,items,NULL,PennController,3,_Trial_,Start,1562826195787,6,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,3,0,items,NULL,Key,bio,Key,32,1562826197044,6,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,3,0,items,NULL,Key,bio,Key,32,1562826198580,6,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,3,0,items,NULL,Key,critical,Key,32,1562826198580,6,NULL
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,3,0,items,NULL,Scale,rating,Choice,0,1562826199928,6,127
+1562826202,e72cc8cd98af8efb0499af32441beb93,PennController,3,0,items,NULL,PennController,3,_Trial_,End,1562826201870,6,NULL
